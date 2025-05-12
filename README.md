@@ -45,5 +45,5 @@ The project consists of the following files:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ChornaIryna/Lexicon.Frontend_8.Kaffeparty
+   git clone https://github.com/ChornaIryna/Lexicon.Frontend_8.Kaffeparty.git
    ```
